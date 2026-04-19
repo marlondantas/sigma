@@ -125,7 +125,7 @@ export default function LoginPage() {
         {/* Rodapé do painel */}
         <div className="relative z-10">
           <p className="text-xs" style={{ color: "#6B5040" }}>
-            © 2026 Sigma · Sistema de Gestão de Madeireiras
+            v26f5b98 · © 2026 Sigma · Sistema de Gestão de Madeireiras
           </p>
         </div>
       </div>

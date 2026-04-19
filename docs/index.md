@@ -12,3 +12,4 @@ Navigation map for this project. Read this first — open other files only when 
 | [infrastructure.md](infrastructure.md) | Deploy Docker: serviços, portas, variáveis de ambiente, comandos |
 | [design.md](design.md) | Paleta de cores, tipografia, biblioteca de componentes (shadcn/ui) |
 | [mvp-mockado.md](mvp-mockado.md) | Plano de implementação do front-end com dados mockados para apresentação acadêmica |
+| [doc-assignments.md](doc-assignments.md) | Distribuição de tarefas de documentação entre os membros do grupo |
