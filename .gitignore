@@ -6,3 +6,16 @@ dist/
 .next/
 
 .claude
+
+# graphify
+graphify-out/graph.html
+graphify-out/graph.json
+graphify-out/cost.json
+graphify-out/manifest.json
+graphify-out/.graphify_*
+graphify-out/cache/
+.graphify_*
+apps/graphify-out/
+
+
+.cache/
