@@ -9,6 +9,12 @@ import { ConfigModule } from '@nestjs/config';
 import { DashboardModule } from './dashboard/dashboard.module';
 import { ProfilesModule } from './profiles/profiles.module';
 import { ProductsModule } from './products/products.module';
+import { SuppliersModule } from './suppliers/suppliers.module';
+import { LotsModule } from './lots/lots.module';
+import { StockModule } from './stock/stock.module';
+import { MovementsModule } from './movements/movements.module';
+import { DismembermentsModule } from './dismemberments/dismemberments.module';
+import { DofModule } from './dof/dof.module';
 
 @Module({
   imports: [
@@ -31,6 +37,12 @@ import { ProductsModule } from './products/products.module';
     DashboardModule,
     ProfilesModule,
     ProductsModule,
+    SuppliersModule,
+    LotsModule,
+    StockModule,
+    MovementsModule,
+    DismembermentsModule,
+    DofModule,
   ],
   controllers: [AppController],
   providers: [AppService],
